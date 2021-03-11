@@ -1,5 +1,6 @@
 import {Header} from "../../components/Header/index";
 import { Main } from "./style";
+import { Button } from "../../components/Button/style";
 
 import juliano from '../../assets/juliano.png';
 import gabriel from '../../assets/gabriel.png';
@@ -16,7 +17,7 @@ export function Navers() {
             <Main>
                 <div className="box">
                     <h1>Navers</h1>
-                    <button>Adicionar Naver</button>
+                    <Button>Adicionar Naver</Button>
                 </div>
 
                 <div className="naversGrid">
