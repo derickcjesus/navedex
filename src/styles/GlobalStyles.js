@@ -12,6 +12,10 @@ export const GlobalStyle = createGlobalStyle`
         --placeholder-text: #9E9E9E;
     }
 
+    body {
+        height: 100vh;
+    }
+
     @media (max-width: 1080px) {
         html {
             font-size: 93, 75%;
