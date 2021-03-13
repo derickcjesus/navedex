@@ -1,10 +1,12 @@
 import { Container, Box } from "./styles";
 
+import logo from '../../assets/logo.svg';
+
 export function Login() {
   return (
     <Container>
       <Box>
-        <img src="logo.png" alt="logo nave.rs" />
+        <img src={logo} alt="logo nave.rs" />
 
         <div>
           <p>E-mail</p>
