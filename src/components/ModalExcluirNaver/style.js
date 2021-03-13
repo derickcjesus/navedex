@@ -8,12 +8,9 @@ export const ContainerModalExcluirNaver = styled.div`
 
     .box {
         padding: 2rem ;
-
         font-family: Montserrat;
         line-height: 36px;
         color: var(--black);
-
-
     }
 
     .box h1 {
