@@ -15,8 +15,7 @@ import { Overlay } from './styles/Overlay';
 function App() {
   return (
     <>
-    <EditNavers/>
-    <ModalNaver />
+    <Navers/>
 
     <GlobalStyle />
     </>
