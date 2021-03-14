@@ -1,9 +1,37 @@
 <h1 align="center">Navedex</h1>
+---
+
+## 📔 Sobre
+  Navedex é uma plataforma de Navers. 
+  
+---
+
+## 🖥 Telas
+<h1 align="center">
+  <img alt="proffy-web" title="#NextLevelWeek2" src="./public/images/screenshots/banner.jpg" />
+  <img alt="proffy-web" title="#NextLevelWeek2" src="./public/images/screenshots/give-classes.jpg" />
+  <img alt="proffy-web" title="#NextLevelWeek2" src="./public/images/screenshots/study.jpg" />
+</h1>
 
 ---
 
-## 📔 About
-  Proffy web is a platform developed for students and teachers. To unify the two classes, the application offers several solutions, such as: students can filter by teachers
-  who are available on a certain day of the week, subject and time. In addition, teachers can sign up by filling out a form with their details
+## 🛠 Tecnologias 
+
+- React
+- Styled Components
+- HTML
+- CSS
+- Javascript
 
 ---
+
+## ⌨ Como clonar e rodar o projeto
+```bash
+# Clone este repositório
+git clone https://github.com/derickcjesus/navedex
+
+# Entre na pasta
+cd navedex
+
+# Rode o servidor local
+yarn start
